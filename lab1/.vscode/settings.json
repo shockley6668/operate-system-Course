@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "computetask.h": "c",
+        "*.tcc": "c",
+        "string": "c"
+    }
+}
