@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "condition_variable": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c"
+    }
+}
